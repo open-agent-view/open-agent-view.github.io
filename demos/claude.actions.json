@@ -1,60 +1,65 @@
 {
-  "duration": 13.994375,
+  "duration": 18.299525,
   "actions": [
     {
-      "at": 1.852,
+      "at": 1.989,
       "action": "Type /harness",
       "window": "open-agent-view"
     },
     {
-      "at": 2.047,
+      "at": 2.113,
       "action": "Enter",
       "window": "open-agent-view"
     },
     {
-      "at": 2.175,
+      "at": 2.241,
       "action": "Enter \u00b7 choose Claude",
       "window": "open-agent-view"
     },
     {
-      "at": 3.745,
+      "at": 3.842,
       "action": "Enter \u00b7 start Claude",
       "window": "open-agent-view"
     },
     {
-      "at": 3.889,
+      "at": 3.966,
       "action": "Enter",
       "window": "open-agent-view"
     },
     {
-      "at": 6.889,
+      "at": 6.966,
       "action": "Enter \u00b7 send follow-up",
       "window": "Claude Code"
     },
     {
-      "at": 7.071,
+      "at": 7.09,
       "action": "Enter",
       "window": "Claude Code"
     },
     {
-      "at": 9.366,
+      "at": 8.736,
+      "action": "Response ready",
+      "window": "Claude Code"
+    },
+    {
+      "at": 11.062,
       "action": "Shift+\u2190 \u00b7 return to opav",
       "window": "Claude Code"
     },
     {
-      "at": 10.861,
+      "at": 13.043,
       "action": "\u2192 \u00b7 reopen Claude",
       "window": "open-agent-view"
     },
     {
-      "at": 10.861,
-      "action": "Shift+\u2190 \u00b7 return to opav",
+      "at": 13.167,
+      "action": "Session reopened",
       "window": "Claude Code"
     },
     {
-      "at": 13.198,
-      "action": "Esc \u00b7 quit",
-      "window": "open-agent-view"
+      "at": 15.492,
+      "action": "Shift+\u2190 \u00b7 return to opav",
+      "window": "Claude Code"
     }
   ]
 }

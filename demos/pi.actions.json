@@ -1,65 +1,71 @@
 {
-  "duration": 13.662357,
+  "duration": 17.499433,
+  "proof": "conversation",
   "actions": [
     {
-      "at": 0.0,
+      "at": 0.047,
       "action": "Enter",
       "window": "Terminal"
     },
     {
-      "at": 2.153,
+      "at": 2.323,
       "action": "Type /harness",
       "window": "open-agent-view"
     },
     {
-      "at": 2.349,
+      "at": 2.447,
       "action": "Enter",
       "window": "open-agent-view"
     },
     {
-      "at": 2.476,
+      "at": 2.573,
       "action": "Enter \u00b7 choose Pi",
       "window": "open-agent-view"
     },
     {
-      "at": 3.911,
+      "at": 4.036,
       "action": "Enter \u00b7 start Pi",
       "window": "open-agent-view"
     },
     {
-      "at": 4.053,
+      "at": 4.16,
       "action": "Enter",
       "window": "open-agent-view"
     },
     {
-      "at": 7.053,
+      "at": 7.16,
       "action": "Type follow-up",
       "window": "Pi"
     },
     {
-      "at": 7.279,
+      "at": 7.288,
       "action": "Enter \u00b7 send follow-up",
       "window": "Pi"
     },
     {
-      "at": 8.594,
+      "at": 7.917,
+      "action": "Response ready",
+      "window": "Pi"
+    },
+    {
+      "at": 10.257,
       "action": "Shift+\u2190 \u00b7 return to opav",
       "window": "Pi"
     },
     {
-      "at": 10.579,
+      "at": 12.243,
       "action": "\u2192 \u00b7 reopen Pi",
       "window": "open-agent-view"
     },
     {
-      "at": 10.579,
-      "action": "Shift+\u2190 \u00b7 return to opav",
+      "at": 12.366,
+      "action": "Session reopened",
       "window": "Pi"
     },
     {
-      "at": 12.764,
-      "action": "Esc \u00b7 quit",
-      "window": "open-agent-view"
+      "at": 14.692,
+      "action": "Shift+\u2190 \u00b7 return to opav",
+      "window": "Pi"
     }
   ]
 }

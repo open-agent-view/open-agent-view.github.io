@@ -1,80 +1,81 @@
 {
-  "duration": 17.580667,
+  "duration": 22.843909,
+  "proof": "conversation",
   "actions": [
     {
-      "at": 0.0,
-      "action": "Enter",
-      "window": "Terminal"
-    },
-    {
-      "at": 2.162,
+      "at": 2.259,
       "action": "Type /harness",
       "window": "open-agent-view"
     },
     {
-      "at": 2.356,
+      "at": 2.383,
       "action": "Enter",
       "window": "open-agent-view"
     },
     {
-      "at": 2.484,
+      "at": 2.512,
       "action": "Enter \u00b7 choose Cursor",
       "window": "open-agent-view"
     },
     {
-      "at": 3.217,
+      "at": 3.255,
       "action": "Select model \u00b7 auto",
       "window": "open-agent-view"
     },
     {
-      "at": 3.354,
+      "at": 3.379,
       "action": "Enter",
       "window": "open-agent-view"
     },
     {
-      "at": 4.829,
+      "at": 4.871,
       "action": "Enter \u00b7 start Cursor",
       "window": "open-agent-view"
     },
     {
-      "at": 4.97,
+      "at": 4.995,
       "action": "Enter",
       "window": "open-agent-view"
     },
     {
-      "at": 7.97,
-      "action": "A \u00b7 trust disposable demo workspace",
+      "at": 7.995,
+      "action": "Confirm \u00b7 trust disposable demo workspace",
       "window": "native harness"
     },
     {
-      "at": 10.97,
+      "at": 10.995,
+      "action": "Type follow-up",
+      "window": "Cursor"
+    },
+    {
+      "at": 11.122,
       "action": "Enter \u00b7 send follow-up",
       "window": "Cursor"
     },
     {
-      "at": 11.126,
-      "action": "Enter",
+      "at": 13.278,
+      "action": "Response ready",
       "window": "Cursor"
     },
     {
-      "at": 12.911,
+      "at": 15.603,
       "action": "Shift+\u2190 \u00b7 return to opav",
       "window": "Cursor"
     },
     {
-      "at": 14.996,
+      "at": 17.586,
       "action": "\u2192 \u00b7 reopen Cursor",
       "window": "open-agent-view"
     },
     {
-      "at": 14.996,
-      "action": "Shift+\u2190 \u00b7 return to opav",
+      "at": 17.709,
+      "action": "Session reopened",
       "window": "Cursor"
     },
     {
-      "at": 17.177,
-      "action": "Esc \u00b7 quit",
-      "window": "open-agent-view"
+      "at": 20.035,
+      "action": "Shift+\u2190 \u00b7 return to opav",
+      "window": "Cursor"
     }
   ]
 }

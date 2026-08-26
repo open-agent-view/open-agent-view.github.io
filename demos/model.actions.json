@@ -1,34 +1,39 @@
 {
-  "duration": 4.948368,
+  "duration": 6.774,
   "actions": [
     {
-      "at": 2.006,
+      "at": 0.007,
+      "action": "Enter",
+      "window": "Terminal"
+    },
+    {
+      "at": 2.134,
       "action": "Type /model",
       "window": "open-agent-view"
     },
     {
-      "at": 2.203,
+      "at": 2.258,
       "action": "Enter",
       "window": "open-agent-view"
     },
     {
-      "at": 3.348,
+      "at": 3.402,
       "action": "\u2193 \u00b7 next model",
       "window": "open-agent-view"
     },
     {
-      "at": 3.472,
+      "at": 3.526,
       "action": "\u2193 \u00b7 next model",
       "window": "open-agent-view"
     },
     {
-      "at": 3.599,
+      "at": 3.651,
       "action": "Enter \u00b7 select exact model",
       "window": "open-agent-view"
     },
     {
-      "at": 4.931,
-      "action": "Esc \u00b7 close",
+      "at": 3.774,
+      "action": "Selected model visible",
       "window": "open-agent-view"
     }
   ]

@@ -1,70 +1,76 @@
 {
-  "duration": 16.199235,
+  "duration": 21.191208,
+  "proof": "conversation",
   "actions": [
     {
-      "at": 2.166,
+      "at": 2.255,
       "action": "Type /harness",
       "window": "open-agent-view"
     },
     {
-      "at": 2.361,
+      "at": 2.379,
       "action": "Enter",
       "window": "open-agent-view"
     },
     {
-      "at": 2.489,
+      "at": 2.507,
       "action": "Enter \u00b7 choose Antigravity",
       "window": "open-agent-view"
     },
     {
-      "at": 3.457,
+      "at": 3.749,
       "action": "Select model \u00b7 gemini-3.1-pro-high",
       "window": "open-agent-view"
     },
     {
-      "at": 3.594,
+      "at": 3.877,
       "action": "Enter",
       "window": "open-agent-view"
     },
     {
-      "at": 5.074,
+      "at": 5.375,
       "action": "Enter \u00b7 start Antigravity",
       "window": "open-agent-view"
     },
     {
-      "at": 5.215,
+      "at": 5.499,
       "action": "Enter",
       "window": "open-agent-view"
     },
     {
-      "at": 8.215,
+      "at": 8.499,
       "action": "Type follow-up",
       "window": "Antigravity"
     },
     {
-      "at": 8.432,
+      "at": 8.628,
       "action": "Enter \u00b7 send follow-up",
       "window": "Antigravity"
     },
     {
-      "at": 11.432,
+      "at": 11.628,
+      "action": "Response ready",
+      "window": "Antigravity"
+    },
+    {
+      "at": 13.954,
       "action": "Shift+\u2190 \u00b7 return to opav",
       "window": "Antigravity"
     },
     {
-      "at": 13.117,
+      "at": 15.938,
       "action": "\u2192 \u00b7 reopen Antigravity",
       "window": "open-agent-view"
     },
     {
-      "at": 13.448,
-      "action": "Shift+\u2190 \u00b7 return to opav",
+      "at": 16.06,
+      "action": "Session reopened",
       "window": "Antigravity"
     },
     {
-      "at": 15.307,
-      "action": "Esc \u00b7 quit",
-      "window": "open-agent-view"
+      "at": 18.386,
+      "action": "Shift+\u2190 \u00b7 return to opav",
+      "window": "Antigravity"
     }
   ]
 }
